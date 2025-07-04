@@ -1,0 +1,14 @@
+[Sun Jun 29 20:32:21 2025] Logged In
+[Sun Jun 29 20:32:30 2025] Deposited Rs 100000000
+[Sun Jun 29 20:32:46 2025] Withdrew Rs 200
+[Sun Jun 29 20:32:53 2025] Withdrew Rs 234
+[Sun Jun 29 20:33:05 2025] PIN Changed
+[Sun Jun 29 20:33:09 2025] Logged Out
+[Sun Jun 29 20:42:52 2025] Logged In
+[Sun Jun 29 20:43:10 2025] Withdrew Rs 1000
+[Sun Jun 29 20:43:25 2025] Deposited Rs 100020230
+[Sun Jun 29 20:43:31 2025] Logged Out
+[Fri Jul 04 20:10:31 2025] Logged In
+[Fri Jul 04 20:10:46 2025] Withdrew Rs 1000
+[Fri Jul 04 20:11:01 2025] PIN Changed
+[Fri Jul 04 20:11:17 2025] Logged Out
